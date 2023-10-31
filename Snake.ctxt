@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Snake
+comment1.params=
+comment1.target=Snake()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkCollision()
+comment5.params=
+comment5.target=void\ controlSnake()
+comment6.params=
+comment6.target=void\ moveSnake()
+comment7.params=
+comment7.target=boolean\ isDead()
+comment8.params=
+comment8.target=void\ grow()
+comment9.params=
+comment9.target=boolean\ isFoodTouching()
+numComments=10
